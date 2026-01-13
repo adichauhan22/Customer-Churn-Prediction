@@ -143,16 +143,15 @@ Customer-Churn-Prediction/
 
 ## 🚀 How to Run the Project
 
-## 1️⃣ Clone the Repository
-```bash
+### 1️⃣ Clone the Repository
 git clone <your-github-repo-link>
-cd Customer-Churn-Prediction```
+cd Customer-Churn-Prediction
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run the Notebooks
+### 3️⃣ Run the Notebooks
 Open Jupyter Notebook and execute notebooks in order:
 01_eda.ipynb
 02_feature_engineering.ipynb
@@ -164,26 +163,17 @@ Open Jupyter Notebook and execute notebooks in order:
 🔜 Final model selection and performance metrics
 🔜 Resume-ready results and deployment (optional)
 
-🧪 Future Improvements :
+## 🧪 Future Improvements :
 Hyperparameter tuning for better performance
 Model comparison using advanced algorithms
 API deployment for real-time predictions
 Monitoring and retraining strategies
 
-👨‍💻 Author :
+## 👨‍💻 Author :
 Aditya Chauhan
 B.Tech Computer Science
 Aspiring Machine Learning / AI Engineer
 
-⭐ Why This Project Is Interview-Ready :
-End-to-end ML workflow
-Clean preprocessing pipeline
-Business-driven decision making
-Production-aware design
-Easy to explain in interviews
-
-📌 Key Takeaway :
+## 📌 Key Takeaway :
 This project focuses not just on building a model, but on building a reliable, explainable, and scalable machine learning system that solves a real business problem.
-Easy to explain in interviews
-
 
